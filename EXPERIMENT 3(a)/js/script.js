@@ -149,7 +149,7 @@ function st2_ckt_sim(){
   document.getElementById("instance-3-sim").style.display = "block";
   document.getElementById("instance-4-sim").style.display = "none";
   document.getElementById("instance-5-sim").style.display = "none";
-  document.getElementById("input-fields-1").style.display = "block";
+  document.getElementById("input-fields-1").style.display = "none";
   document.getElementById("input-fields-2").style.display = "block";
   document.getElementById("input-fields-3").style.display = "block";
   document.getElementById("input-fields-4").style.display = "block";
@@ -221,7 +221,7 @@ function st3_ckt_sim(){
   document.getElementById("instance-4-sim").style.display = "block";
   document.getElementById("instance-5-sim").style.display = "none";
   document.getElementById("input-fields-1").style.display = "block";
-  document.getElementById("input-fields-2").style.display = "block";
+  document.getElementById("input-fields-2").style.display = "none";
   document.getElementById("input-fields-3").style.display = "block";
   document.getElementById("input-fields-4").style.display = "block";
   document.getElementById("input-fields-5").style.display = "block";
